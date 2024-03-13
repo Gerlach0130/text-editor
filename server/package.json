@@ -10,7 +10,9 @@
     "author": "",
     "license": "ISC",
     "dependencies": {
-        "express": "^4.17.1"
+        "express": "^4.17.1",
+        "heroku": "^8.10.0",
+        "serve": "^14.2.1"
     },
     "devDependencies": {
         "nodemon": "^2.0.4"
