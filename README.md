@@ -2,7 +2,9 @@
 
   ## Description
 
-  An in-browser text editor app that meets PWA criteria, and can be used offline.
+  An in-browser text editor app that meets PWA criteria, and can be downloaded and used offline.
+
+  https://warm-mountain-80221-5284ebb79468.herokuapp.com/
 
   ## Table of Contents
   * [Installation](#installation)
